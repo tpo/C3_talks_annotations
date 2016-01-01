@@ -6,9 +6,10 @@ URLs
 * non-HD Präsentationen http://cdn.media.ccc.de/congress/2014/webm-sd/
 * höhere Auflösungen ein Verzeichnis höher
 
-Reviews späterer Kongresse
---------------------------
+Reviews anderer Jahre
+---------------------
 
+* https://github.com/tpo/31c3_talks_annotations/blob/master/29c3.md
 * https://github.com/munen/32c3_talk_annotations
 
 Reviewer
