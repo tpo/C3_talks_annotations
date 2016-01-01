@@ -1,5 +1,4 @@
-Reviews der Präsentationen am 31c3 (31. Chaos Computer Congress) im 2014
-------------------------------------------------------------------------
+# Reviews der Präsentationen am 31c3 (31. Chaos Computer Congress) im 2014
 
 URLs
 ----
