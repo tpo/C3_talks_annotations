@@ -8,6 +8,7 @@ URLs
 Reviews anderer Jahre
 ---------------------
 
+* [28c3](https://github.com/tpo/31c3_talks_annotations/blob/master/28c3.md)
 * [29c3](https://github.com/tpo/31c3_talks_annotations/blob/master/29c3.md)
 * [32c3](https://github.com/munen/32c3_talk_annotations)
 
