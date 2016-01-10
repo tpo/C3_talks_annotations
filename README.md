@@ -50,6 +50,8 @@ Vorträge (grob sortiert nach Wertung)
     * t: interessant, ein Paar Typen schreiben ein virtuelles (ohne HW Treiber) Library OS in OCaml
 * __Too_Many_Cooks_-_Exploiting_the_Internet-of-TR-069-Things__
     * t: empfohlen, ein Exploit für ganz, ganz viele Heimrouter
+* __Net neutrality: days of future past?__
+    * t: empfohlen, sehr interessante Übersicht, wie auf EU Ebene um Netzneutralität gekämpft wir und die Lage in verschiedenen Ländern auf der Welt
 *   __The Matter of Heartbleed__
     * m: post mortem zu einem krassen Problem
 *   __Krypto für die Zukunft__
