@@ -17,13 +17,13 @@ URLs
 c3 Jahrgänge
 ------------
 
-* 2011 - [28c3](https://github.com/tpo/31c3_talks_annotations/blob/master/28c3.md)
-* 2012 - [29c3](https://github.com/tpo/31c3_talks_annotations/blob/master/29c3.md)
-* 2014 - [31c3](https://github.com/tpo/31c3_talks_annotations/blob/master/31c3.md)
+* 2011 - [28c3](https://github.com/tpo/C3_talks_annotations/blob/master/28c3.md)
+* 2012 - [29c3](https://github.com/tpo/C3_talks_annotations/blob/master/29c3.md)
+* 2014 - [31c3](https://github.com/tpo/C3_talks_annotations/blob/master/31c3.md)
 * 2015 - [32c3](https://github.com/munen/32c3_talk_annotations)
-* 2016 - [33c3](https://github.com/tpo/31c3_talks_annotations/blob/master/33c3.md)
-* 2017 - [34c3](https://github.com/tpo/31c3_talks_annotations/blob/master/34c3.md)
-* 2019 - [36c3](https://github.com/tpo/31c3_talks_annotations/blob/master/34c3.md) (in progress)
+* 2016 - [33c3](https://github.com/tpo/C3_talks_annotations/blob/master/33c3.md)
+* 2017 - [34c3](https://github.com/tpo/C3_talks_annotations/blob/master/34c3.md)
+* 2019 - [36c3](https://github.com/tpo/C3_talks_annotations/blob/master/34c3.md) (in progress)
 
 Geschichte
 ----------
