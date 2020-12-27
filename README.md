@@ -23,7 +23,7 @@ c3 Jahrgänge
 * 2015 - [32c3](https://github.com/munen/32c3_talk_annotations)
 * 2016 - [33c3](https://github.com/tpo/C3_talks_annotations/blob/master/33c3.md)
 * 2017 - [34c3](https://github.com/tpo/C3_talks_annotations/blob/master/34c3.md)
-* 2019 - [36c3](https://github.com/tpo/C3_talks_annotations/blob/master/34c3.md) (in progress)
+* 2019 - [36c3](https://github.com/tpo/C3_talks_annotations/blob/master/36c3.md)
 
 Geschichte
 ----------
