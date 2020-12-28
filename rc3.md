@@ -2,7 +2,7 @@
 
 CCC Verweise
 ------------
-<--! * [ccc-tv Video Aufzeichnungen](https://media.ccc.de/c/36c3) -->
+* [ccc-tv Video Aufzeichnungen](https://media.ccc.de/b/conferences/rc3)
 * [Fahrplan](https://rc3.world/rc3/public_fahrplan)
 * [Reviews der Vorträge anderer Jahre](https://github.com/tpo/C3_talks_annotations/blob/master/README.md)
 
@@ -10,6 +10,13 @@ Reviewers
 ---------
 
 * t = tpo
+
+Vorträge (grob sortiert nach Wertung)
+-------------------------------------
+
+*   __RUN MSC__ von Jolly
+    * https://media.ccc.de/v/rc3-602273-run_msc
+    * t: Nice! Respect for the achivement!
 
 Wanting to watch
 ----------------
@@ -20,7 +27,6 @@ Wanting to watch
 
 *   __TRACKING RANSOMWARE END-TO-END__ von Max Aliapoulios
     * https://rc3.world/rc3/public_fahrplan#d175d882-b2ec-4dc3-90de-b5429df2607f
-    <--! * t: Extraordinarily ... -->
 
 *   __CIA VS. WIKILEAKS__ von andy
     * https://rc3.world/rc3/public_fahrplan#52f30691-75bc-4759-94a5-ce2225c1e849
@@ -66,3 +72,4 @@ Wanting to watch
 
 *   __WATCHING THE WATCHERS - HOW SURVEILLANCE COMPANIES TRACK YOU USING MOBILE NETWORKS__ von Cathal Mc Daid
     * https://rc3.world/rc3/public_fahrplan#14229ea8-0003-4665-9e02-faaf733bd0e8
+
