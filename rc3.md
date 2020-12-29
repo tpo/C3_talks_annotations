@@ -18,6 +18,10 @@ Vorträge (grob sortiert nach Wertung)
     * https://media.ccc.de/v/rc3-602273-run_msc
     * t: Nice! Respect for the achivement!
 
+*   __The Yes Men from Tricksters in an age of dirty tricks__ von Yes Men
+    * https://media.ccc.de/v/rc3-11568-the_yes_men_from_tricksters_in_an_age_of_dirty_tricks
+    * t: Mmmhja
+   
 Wanting to watch
 ----------------
 
