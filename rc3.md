@@ -14,6 +14,10 @@ Reviewers
 Vorträge (grob sortiert nach Wertung)
 -------------------------------------
 
+*   __Angry weather? How human-induced climate change affects weather (& how we know)__ von Friederike Otto
+    * https://media.ccc.de/v/rc3-11568-the_yes_men_from_tricksters_in_an_age_of_dirty_tricks
+    * t: how can we estimate how much climate contributes to extreme weather events? Recommended.
+   
 *   __RUN MSC__ von Jolly
     * https://media.ccc.de/v/rc3-602273-run_msc
     * t: Nice! Respect for the achivement!
