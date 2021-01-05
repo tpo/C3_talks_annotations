@@ -30,10 +30,15 @@ Vorträge (grob sortiert nach Wertung)
     * https://media.ccc.de/v/rc3-232856-type_theory_and_meaning_in_linguistics#t=0
     * t: interessant und anregend, ich sollte mir Mal Coq anschauen...
 
+*   __This Is Not A Game. Eine kurze Geschichte von Q als Mindfuck-Spiel__ von Arne Vogelgesang
+    * https://media.ccc.de/v/rc3-11500-this_is_not_a_game_de#t=2909
+    * t: Hm, jo.
+
 *   __The Yes Men from Tricksters in an age of dirty tricks__ von Yes Men
     * https://media.ccc.de/v/rc3-11568-the_yes_men_from_tricksters_in_an_age_of_dirty_tricks
     * t: Mmmhja
    
+
 Wanting to watch
 ----------------
 
