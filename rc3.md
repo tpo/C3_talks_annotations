@@ -18,6 +18,10 @@ Vorträge (grob sortiert nach Wertung)
     * https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks
     * t: schauen!
 
+*   __The Elephant In The Background: Empowering Users Against Browser Fingerprinting__ Julian Fietkau
+    * https://media.ccc.de/v/rc3-113142-the_elephant_in_the_background
+    * tpo: sehr interessant. Wie und wie sehr werden wird Fingerprinted? -> extrem viel!
+
 *   __Angry weather? How human-induced climate change affects weather (& how we know)__ von Friederike Otto
     * https://media.ccc.de/v/rc3-11568-the_yes_men_from_tricksters_in_an_age_of_dirty_tricks
     * t: how can we estimate how much climate contributes to extreme weather events? Recommended.
