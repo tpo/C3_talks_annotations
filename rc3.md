@@ -18,7 +18,7 @@ Vorträge (grob sortiert nach Wertung)
     * https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks
     * t: schauen!
 
-*   __The Elephant In The Background: Empowering Users Against Browser Fingerprinting__ Julian Fietkau
+*   __The Elephant In The Background: Empowering Users Against Browser Fingerprinting__ von Julian Fietkau
     * https://media.ccc.de/v/rc3-113142-the_elephant_in_the_background
     * tpo: sehr interessant. Wie und wie sehr werden wird Fingerprinted? -> extrem viel!
 
@@ -34,6 +34,11 @@ Vorträge (grob sortiert nach Wertung)
     * https://media.ccc.de/v/rc3-232856-type_theory_and_meaning_in_linguistics#t=0
     * t: interessant und anregend, ich sollte mir Mal Coq anschauen...
 
+*   __„Mein Huren-Manifest“ – Online-Lesung und Gespräch mit Undine de Rivière__ von Undine de Rivière
+    * https://media.ccc.de/v/rc3-11522-mein_huren-manifest_online-lesung_und_gesprach_mit_undine_de_riviere#t=2002
+    * t: abgemildert interessant, schöne Frau
+
+    * https://media.ccc.de/v/rc3-11522-mein_huren-manifest_online-lesung_und_gesprach_mit_undine_de_riviere
 *   __This Is Not A Game. Eine kurze Geschichte von Q als Mindfuck-Spiel__ von Arne Vogelgesang
     * https://media.ccc.de/v/rc3-11500-this_is_not_a_game_de#t=2909
     * t: Hm, jo.
