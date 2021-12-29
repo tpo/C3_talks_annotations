@@ -20,6 +20,7 @@ Vorträge (grob sortiert nach Wertung)
 
 *   __The Elephant In The Background: Empowering Users Against Browser Fingerprinting__ von Julian Fietkau
     * https://media.ccc.de/v/rc3-113142-the_elephant_in_the_background
+    * https://fpmon.github.io/fingerprinting-monitor/
     * tpo: sehr interessant. Wie und wie sehr werden wird Fingerprinted? -> extrem viel!
 
 *   __Angry weather? How human-induced climate change affects weather (& how we know)__ von Friederike Otto
