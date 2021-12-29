@@ -24,7 +24,8 @@ c3 Jahrgänge
 * 2016 - [33c3](https://github.com/tpo/C3_talks_annotations/blob/master/33c3.md)
 * 2017 - [34c3](https://github.com/tpo/C3_talks_annotations/blob/master/34c3.md)
 * 2019 - [36c3](https://github.com/tpo/C3_talks_annotations/blob/master/36c3.md)
-* 2020 - [rc3](https://github.com/tpo/C3_talks_annotations/blob/master/rc3.md) (in progress)
+* 2020 - [rc3](https://github.com/tpo/C3_talks_annotations/blob/master/rc3.md)
+* 2021 - [rc3-2001](https://github.com/tpo/C3_talks_annotations/blob/master/rc3-2021.md) (in progress)
 
 Geschichte
 ----------
