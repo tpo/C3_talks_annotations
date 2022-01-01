@@ -59,9 +59,6 @@ Wanting to watch
 *   __TRACKING RANSOMWARE END-TO-END__ von Max Aliapoulios
     * https://rc3.world/rc3/public_fahrplan#d175d882-b2ec-4dc3-90de-b5429df2607f
 
-*   __CIA VS. WIKILEAKS__ von andy
-    * https://rc3.world/rc3/public_fahrplan#52f30691-75bc-4759-94a5-ce2225c1e849
-
 *   __CONVERSATION WITH BRUCE SCHNEIER__ von frank, Bruce Schneier
     * https://rc3.world/rc3/public_fahrplan#2605212d-979a-4bcf-b12f-f8db0f51efcf
 
